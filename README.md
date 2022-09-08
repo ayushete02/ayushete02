@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete
-<img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif">
+<br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif">
 </h1>
 
 - 🥇 I'm a Smart India Hackathon 2022 Winner
