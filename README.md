@@ -4,7 +4,7 @@
 </h1>
 
 
-- 🥇 I'm a Smart India Hackathon 2022 Winner
+- 🥇 I'm a **Smart India Hackathon 2022 Winner**
 - 👨‍💻 I'm a Full Stack Developer
 - 🤖 I'm a Machine Learning Enthusist
 - 🌱 I’m currently learning Android Development
