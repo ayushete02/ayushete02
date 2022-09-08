@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete
 <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif">
-
 </h1>
+
 
 - 🥇 I'm a Smart India Hackathon 2022 Winner
 - 👨‍💻 I'm a Full Stack Developer
@@ -12,12 +12,6 @@
 - 😄 Pronouns: **He/Him**
 <!-- - 🔗 Checkout: [vashist.me](https://vashist.me) -->
 
-<p align="left">
-  <img align="center" alt="Profile Visit Count" src="https://komarev.com/ghpvc/?username=ayushete02&style=for-the-badge" />&nbsp;
-  <a href="https://linkedin.com/in/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
-  <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
-  <a href="https://twitter.com/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
-</p>
 
 
 <br>
@@ -39,3 +33,11 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller) -->
  
+
+<hr>
+<p align="center">
+  <a href="https://linkedin.com/in/ayushete" target="_blank"><img align="center" alt="Ayush Shete | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
+  <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
+  <a href="https://twitter.com/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
+</p>
+<hr>
