@@ -21,8 +21,9 @@
 
 ## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Enchiper)](https://github.com/ayushete02/Enchiper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=IMG_2_PDF_Website)](https://github.com/ayushete02/IMG_2_PDF_Website)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Air-Writing)](https://github.com/ayushete02/Air-Writing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
