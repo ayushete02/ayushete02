@@ -34,8 +34,8 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller) -->
  
- 
-![jwalapc's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=rogue&hide_border=true&area=true)
+ ## 📈 My Activity graph
+![Ayush GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=rogue&hide_border=true&area=true)
 
 
 <hr>
