@@ -35,7 +35,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller) -->
  
  ## 📈 My Activity graph
-![Ayush GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=light&hide_border=true&area=true)
+![Ayush GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=dark&hide_border=true&area=true)
 
 
 <hr>
