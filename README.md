@@ -100,7 +100,7 @@ Contact:
 <!-- platane/snk works, it just puts it on a new branch -->
 
 
- ![mishmanners snake gif](https://github.com/ayushete02/MishManners/blob/output/github-contribution-grid-snake.svg)
+ ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 </p>
