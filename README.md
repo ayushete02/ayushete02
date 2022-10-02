@@ -12,17 +12,46 @@
 
 </h1>
 
+## 🅰️ About Myself
 
-- 🥇 I'm a **Smart India Hackathon 2022 Winner**
-- 👨‍💻 I'm a Full Stack Developer
-- 🤖 I'm a Machine Learning Enthusist
-- 🌱 I’m currently learning Android Development
-- 💬 Ask me about Python, Java, Javascript, MERN Stack
-- 📫 How to reach me: ayushete2005@gmail.com
-- 😄 Pronouns: **He/Him**
-<!-- - 🔗 Checkout: [vashist.me](https://vashist.me) -->
+```yaml
+name: Ayush Shete
+located_in: Nagpur, Maharashtra, India
+Skills: Full Stack Developer, Machine Learning
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Software Developement",
+    "Bachelor's in Computer Science",
+  ]
+company: GitHub
 
-
+fields_of_interests:
+  [
+    "Web Development",
+    "Software Development",
+    "Android Developement",
+    "ReactJS Developer"
+    "UI/UX"
+  ]
+  
+Language:
+  [
+    "Python",
+    "JavaScript",
+    "Java"
+  ]
+  
+Contact: 
+  [
+    Linkdin: ayushete02, 
+    mail: ayushete2005@gmail.com, 
+    instagram: ayush_shete_0216
+  ]
+  
+  Achievement: [Smart India Hackathon 2022 🏆]
+  
+```
 
 <br>
 
