@@ -82,7 +82,7 @@ Contact:
 
 <p align="center">
  <img width="200px"src="assets/header/lights.png">
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)
+<p>![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)</p>
  <img width="200px"src="assets/header/lights.png">
   </p>
   
