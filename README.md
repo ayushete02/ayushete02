@@ -75,11 +75,8 @@ Contact:
 <br>
 
 ## 🔥 My Github Streak
-<p align="center">
- <img width="200px"src="assets/header/lights.png">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushete02&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
- <img width="200px"src="assets/header/lights.png">
-  </p>
+
   
 ## 🅰️ My Github Stats
 
