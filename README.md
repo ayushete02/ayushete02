@@ -52,6 +52,25 @@ Contact:
   Achievement: [Smart India Hackathon 2022 🏆]
   
 ```
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 <br>
 
@@ -66,15 +85,32 @@ Contact:
 ## 🌍 My Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=00000&title_color=fffff&text_color=)    
 
-## 💡 Top Repositories
+
+ ## 📈 GitHub Stats 
+
+<p align="center">
+ <img width="200px"src="assets/header/lights.png">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="200px"src="assets/header/lights.png">
+ <br>
+ <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
+ 
+</p>
+<!-- platane/snk works, it just puts it on a new branch -->
+
+ ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</p>
+
+<!--## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Enchiper)](https://github.com/ayushete02/Enchiper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Air-Writing)](https://github.com/ayushete02/Air-Writing)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller) -->
- 
- ## 📈 My Activity graph
-![Ayush GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayushete02&&bg_color=00000&title_color=fffff&hide_border=true&area=true)
-
 
 <hr>
 <p align="center">
