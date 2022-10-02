@@ -75,32 +75,35 @@ Contact:
 <br>
 
 ## 🔥 My Github Streak
-
-
+<p align="center">
+ <img width="200px"src="assets/header/lights.png">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushete02&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
+ <img width="200px"src="assets/header/lights.png">
+  </p>
+  
 ## 🅰️ My Github Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)
-
-## 🌍 My Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=00000&title_color=fffff&text_color=)    
-
-
- ## 📈 GitHub Stats 
 
 <p align="center">
- <img width="200px"src="readme_media/lights.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="readme_media/lights.png">
- <br>
- <br>
+ <img width="200px"src="assets/header/lights.png">
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)
+ <img width="200px"src="assets/header/lights.png">
+  </p>
+  
+## 🌍 My Languages
+ <p align="center">
+ <img width="200px"src="assets/header/lights.png">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=00000&title_color=fffff&text_color=)  
+ <img width="200px"src="assets/header/lights.png">
+  </p>
+
+ ## 📈 GitHub Contributions Graph
+<p align="center">
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
- 
 </p>
+
 <!-- platane/snk works, it just puts it on a new branch -->
-
-
  ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 </p>
