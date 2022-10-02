@@ -80,7 +80,7 @@ Contact:
   
 ## 🅰️ My Github Stats
 
-<p>![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)</p>
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)
  
   
 ## 🌍 My Languages
