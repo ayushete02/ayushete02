@@ -89,9 +89,9 @@ Contact:
  ## 📈 GitHub Stats 
 
 <p align="center">
- <img width="200px"src="assets/header/lights.png">
+ <img width="200px"src="readme_media/lights.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="assets/header/lights.png">
+ <img width="200px"src="readme_media/lights.png">
  <br>
  <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
