@@ -80,18 +80,13 @@ Contact:
   
 ## 🅰️ My Github Stats
 
-<p align="center">
- <img width="200px"src="assets/header/lights.png">
 <p>![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true)</p>
- <img width="200px"src="assets/header/lights.png">
-  </p>
+ 
   
 ## 🌍 My Languages
- <p align="center">
- <img width="200px"src="assets/header/lights.png">
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=00000&title_color=fffff&text_color=)  
- <img width="200px"src="assets/header/lights.png">
-  </p>
+
 
  ## 📈 GitHub Contributions Graph
 <p align="center">
