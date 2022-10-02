@@ -99,10 +99,11 @@ Contact:
 </p>
 <!-- platane/snk works, it just puts it on a new branch -->
 
- ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="center">
+ ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+<br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 </p>
 
