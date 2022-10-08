@@ -114,6 +114,3 @@ Contact:
 </p>
 <hr>
 
-
-<img src="https://github.com/ayushete02/ayushete02/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
-
