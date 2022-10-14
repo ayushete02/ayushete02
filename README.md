@@ -1,4 +1,3 @@
-
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete -->
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
 <!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
@@ -93,7 +92,7 @@ Contact:
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
 </p>
 
-<!-- platane/snk works, it just puts it on a new branch -->
+<!--platane/snk works, it just puts it on a new branch -->
  ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
  
 <p align="center">
