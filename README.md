@@ -111,6 +111,6 @@ Contact:
   <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
   <a href="https://twitter.com/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
 </p>
- ![](https://visitor-badge.glitch.me/badge?page_id=mohitchandak.mohitchandak&style=flat-square&color=0088cc)   
+ ![](https://visitor-badge.glitch.me/badge?page_id=mohitchandak.ayushete02&style=flat-square&color=0088cc)   
 <hr>
 
