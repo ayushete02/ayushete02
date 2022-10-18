@@ -111,5 +111,9 @@ Contact:
   <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
   <a href="https://twitter.com/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
 </p>
+<p align="center" float="right">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=mohitchandak&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mohitchandak&count_private=false&show_icons=true&theme=tokyonight" >
+</p>
 <hr>
 
