@@ -82,7 +82,7 @@ Contact:
 
 <p align="center">
     <a href="https://github.com/ayushete02/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Shete's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Shete's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=radical&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
