@@ -1,3 +1,9 @@
+<!-- <div style> -->
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete -->
+<!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
+<!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
+<div style="width:100% ;height: 100%; border: 5px solid red; padding: 30px">
+
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete -->
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
 <!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
