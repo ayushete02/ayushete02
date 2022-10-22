@@ -118,7 +118,6 @@ Contact:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 
 </p>
-<br>
 
 <!--platane/snk works, it just puts it on a new branch -->
  ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
