@@ -2,7 +2,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete -->
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
 <!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
-<div style="width:100% ;height: 100%; border: 5px solid red; padding: 100px">
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Ayush Shete -->
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
@@ -136,5 +135,3 @@ Contact:
 
  ![](https://visitor-badge.glitch.me/badge?page_id=ayushete02.ayushete02&style=flat-square&color=0088cc)        
 
-
-</div>
