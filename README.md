@@ -74,7 +74,8 @@ Contact:
 <br>
 
 ## 🔥 My Github Streak
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-streak-stats.vercel.app/api?username=ayushete02&show_icons=true&theme=radical)
+
 [![Aysuh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushete02&date_format=j%20M%5B%20Y%5D&theme=radical)](https://git.io/streak-stats) 
 
   
@@ -85,8 +86,7 @@ Contact:
   
 ## 🌍 My Languages
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=00000&title_color=fffff&text_color=)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&theme=radical)](https://github.com/ayushete02/github-readme-stats)
 
 
  ## 📈 GitHub Contributions Graph
