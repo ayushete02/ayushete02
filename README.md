@@ -19,18 +19,18 @@
 ## 🅰️ About Myself
 
 ```yaml
-name: Ayush Shete
-located_in: Nagpur, Maharashtra, India
+Name: Ayush Shete
+Location: Nagpur, Maharashtra, India
 Skills: Full Stack Developer, Machine Learning
-education:
+Education:
   [
     "Self-Taught Developer and Designer",
     "Software Developement",
     "Bachelor's in Computer Science",
   ]
-company: GitHub
+Company: GitHub
 
-fields_of_interests:
+Fields of interests:
   [
     "Web Development",
     "Software Development",
@@ -53,7 +53,7 @@ Contact:
     instagram: ayush_shete_0216
   ]
   
-  Achievement: [Smart India Hackathon 2022 🏆]
+Achievement: [Smart India Hackathon 2022 🏆]
   
 ```
 ### 🧰 Languages and Tools
