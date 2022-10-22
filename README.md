@@ -106,8 +106,7 @@ Contact:
 <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical" /></a>
 </p>
 
-<!--platane/snk works, it just puts it on a new branch -->
- ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🏆Hacktoberfest 2022 Badges 
 [![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@ayushete02)
@@ -119,6 +118,10 @@ Contact:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 
 </p>
+<br>
+
+<!--platane/snk works, it just puts it on a new branch -->
+ ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 <!--## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Enchiper)](https://github.com/ayushete02/Enchiper)
