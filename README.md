@@ -3,33 +3,6 @@
 <!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
 
 <p align="center">
-    <a href="https://github.com/Kush-munot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-  <br/>
-    <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-  <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-## Hacktoberfest 2022 Badges 
-[![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@ayushete02)
-
-
-## Connect with me:
-![ayushete02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [<img alt="Instagram" src="https://img.shields.io/badge/ayush_shete_0216-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/ayush_shete_0216) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushete/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/ayushete02)
-
-
-<img src="readme_media/headerImage.png" width="100%"/>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
 
@@ -100,29 +73,44 @@ Contact:
 
 ## 🔥 My Github Streak
 
-[![Aysuh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushete02&date_format=j%20M%5B%20Y%5D&theme=radical)](https://github.com/ayushete02) 
+<p align="center">
+    <a href="https://github.com/ayushete02/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Shete's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
   
 ## 🅰️ My Github Stats
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&theme=radical)](https://github.com/ayushete02)
+<p align="center">
+   <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+   </p>
 
   
 ## 🌍 My Languages
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&theme=radical)](https://github.com/ayushete02)
+ <p align="center">
+<a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
 
+</p>
 
- ## 📈 GitHub Contributions Graph
+## 📈 GitHub Contributions Graph
 <p align="center">
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
+<a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical" /></a>
 </p>
 
 <!--platane/snk works, it just puts it on a new branch -->
  ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆Hacktoberfest 2022 Badges 
+[![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@ayushete02)
+
+
+
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+
 </p>
 
 <!--## 💡 Top Repositories
@@ -132,11 +120,9 @@ Contact:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Hand-Volume-Controller)](https://github.com/ayushete02/AI-Hand-Volume-Controller) -->
 
 <hr>
-<p align="center">
-  <a href="https://linkedin.com/in/ayushete" target="_blank"><img align="center" alt="Ayush Shete | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
-  <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
-  <a href="https://twitter.com/ayushete02" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
-</p>
+
+[![ayushete02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushete02@gmail.com)  [<img alt="Instagram" src="https://img.shields.io/badge/ayush_shete_0216-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/ayush_shete_0216) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushete/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/ayushete02)
+
   
 <hr>
 
