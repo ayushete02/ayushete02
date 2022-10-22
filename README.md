@@ -4,27 +4,27 @@
 
 <p align="center">
     <a href="https://github.com/Kush-munot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-munot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kush Munot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
   <br/>
-    <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kush-munot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-  <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-munot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Kush-munot/github-readme-stats"><img alt="Kush Munot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kush-munot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 ## Hacktoberfest 2022 Badges 
-[![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@munotkg)
+[![@munotkg's Holopin board](https://holopin.me/munotkg)](https://holopin.io/@ayushete02)
 
 
 ## Connect with me:
-![munot.kgm@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [<img alt="Instagram" src="https://img.shields.io/badge/kushjain.17-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/kushjain.17/) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kush-munot/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/Kush-munot)
+![ayushete02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [<img alt="Instagram" src="https://img.shields.io/badge/ayush_shete_0216-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/ayush_shete_0216) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushete/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/ayushete02)
 
 
 <img src="readme_media/headerImage.png" width="100%"/>
