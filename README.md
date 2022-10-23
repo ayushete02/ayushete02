@@ -106,6 +106,10 @@ Achievement: [Smart India Hackathon 2022 🏆]
 <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical" /></a>
 </p>
 
+<p align="center">
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
+</p>
+
 
 
 ## 🏆Hacktoberfest 2022 Badges 
