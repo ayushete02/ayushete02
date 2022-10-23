@@ -107,7 +107,7 @@ Achievement: [Smart India Hackathon 2022 🏆]
 </p>
 
 <p align="center">
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=ayushete02&theme=redical">
+ <img  src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical">
 </p>
 
 
