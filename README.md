@@ -82,7 +82,7 @@ Achievement: [Smart India Hackathon 2022 🏆]
 
 <p align="center">
     <a href="https://github.com/ayushete02/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Shete's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=radical&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush Shete's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushete02&theme=radical&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
@@ -90,26 +90,18 @@ Achievement: [Smart India Hackathon 2022 🏆]
 ## 🅰️ My Github Stats
 
 <p align="center">
-   <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushete02&show_icons=true&count_private=true&theme=radical&bg_color=0D1117" /></a>
    </p>
 
   
 ## 🌍 My Languages
  
  <p align="center">
-<a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" /></a>
 
 </p>
 
 ## 📈 GitHub Contributions Graph
-<p align="center">
-<a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical" /></a>
-</p>
-
-<p align="center">
- <img  src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&hide_border=true&theme=radical">
-</p>
-
 
 <p align="center">
  <img  src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&theme=radical">
