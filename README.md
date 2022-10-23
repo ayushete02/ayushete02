@@ -30,7 +30,7 @@ Education:
   ]
 Company: GitHub
 
-Fields of interests:
+Fields of Interests:
   [
     "Web Development",
     "Software Development",
