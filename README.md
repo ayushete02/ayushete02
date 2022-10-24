@@ -22,7 +22,7 @@
 Name: Ayush Shete
 Location: Nagpur, Maharashtra, India
 Skills: Full Stack Developer, Machine Learning
-Education:
+Education: 
   [
     "Self-Taught Developer and Designer",
     "Software Developement",
