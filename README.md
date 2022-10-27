@@ -109,9 +109,9 @@ Achievement: [Smart India Hackathon 2022 🏆]
 
 
 
-## 🏆Hacktoberfest 2022 Badges 
+<!-- ## 🏆Hacktoberfest 2022 Badges 
 [![@ayushete Holopin board](https://holopin.io/api/user/board?user=ayushete02)](https://holopin.io/@ayushete02)
-
+ -->
 
  
 <p align="center">
