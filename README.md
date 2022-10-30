@@ -13,7 +13,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
 
-
 </h1>
 
 ## 🅰️ About Myself
@@ -30,7 +29,7 @@ Education:
   ]
 Company: GitHub
 
-Fields of Interests:
+Fields of Interests: 
   [
     "Web Development",
     "Software Development",
