@@ -20,22 +20,30 @@
 ```yaml
 Name: Ayush Shete
 Location: Nagpur, Maharashtra, India
-Skills: Full Stack Developer, Machine Learning
+Skills: Full Stack Developer, Blockchain, Machine Learning, Frontend Developer, Frontend Developer.
 Education: 
   [
-    "Self-Taught Developer and Designer",
-    "Software Developement",
-    "Bachelor's in Computer Science",
+    "Bachelor's in Computer Science"
   ]
-Company: GitHub
 
 Fields of Interests: 
   [
-    "Web Development",
+    "Frontend Developement",
+    "Backend Developement",
     "Software Development",
-    "Android Developement",
     "ReactJS Developer"
+    "NextJS Developer"
     "UI/UX"
+  ]
+
+Technology:
+  [
+    "Blockchain",
+    "Machine Learning",
+    "NextjS",
+    "React Native",
+    "Tailwind CSS",
+    "Ant Design"
   ]
   
 Language:
@@ -52,9 +60,18 @@ Contact:
     instagram: ayush_shete_0216
   ]
   
-Achievement: [Smart India Hackathon 2022 🏆]
+Achievement:
+  [
+    "Smart India Hackathon 2022 🏆",
+    "ETHIndia 2022 🏆"
+  ]
   
 ```
+
+### GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02)](https://github.com/ayushete02)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -102,9 +119,6 @@ Achievement: [Smart India Hackathon 2022 🏆]
 
 ## 📈 GitHub Contributions Graph
 
-<p align="center">
- <img  src="https://activity-graph.herokuapp.com/graph?username=ayushete02&bg_color=0D1117&color=5BCDEC&line=d83b7d&point=f7d747&theme=radical">
-</p>
 
 
 
