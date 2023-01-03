@@ -70,7 +70,8 @@ Achievement:
 
 ### GitHub Profile Trophy 🏆
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=2&column=3)](https://github.com/ayushete02)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=2&column=4)](https://github.com/ayushete02)
 
 ### 🧰 Languages and Tools
 
