@@ -20,6 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
 ## 🥇 Hackathon
+<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword -->
 
 [![Hackthon](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
@@ -134,7 +135,7 @@ Achievement:
 <!--platane/snk works, it just puts it on a new branch -->
  ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
-<!--## 💡 Top Repositories
+<!-- ## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Enchiper)](https://github.com/ayushete02/Enchiper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Air-Writing)](https://github.com/ayushete02/Air-Writing)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=AI-Mood-Recognizer)](https://github.com/ayushete02/AI-Mood-Recognizer)
