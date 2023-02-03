@@ -19,12 +19,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
-## 🅰️ About Myself
+## 🅰️ About.json
 
 ```yaml
 Name: Ayush Shete
 Location: Nagpur, Maharashtra, India
 Skills: Full Stack Developer, Blockchain, Machine Learning, Frontend Developer, Frontend Developer.
+
 Education: 
   [
     "Bachelor's in Computer Science"
@@ -32,42 +33,37 @@ Education:
 
 Fields of Interests: 
   [
+    "Blockchain Developement",
     "Frontend Developement",
     "Backend Developement",
     "Software Development",
-    "ReactJS Developer"
-    "NextJS Developer"
-    "UI/UX"
+    "ReactJS Development",
+    "NextJS Development",
+    "Machine Learning",
+    "UI/UX Development"
   ]
 
-Technology:
-  [
-    "Blockchain",
-    "Machine Learning",
-    "NextjS",
-    "React Native",
-    "Tailwind CSS",
-    "Ant Design"
-  ]
-  
 Language:
   [
     "Python",
-    "JavaScript",
-    "Java"
+    "JavaScript"
   ]
   
 Contact: 
   [
     Linkdin: ayushete02, 
-    mail: ayushete2005@gmail.com, 
-    instagram: ayush_shete_0216
+    twitter: ayushete02,
+    telegram: ayushete02,
+    discord:ayushete02,
+    instagram: ayushete02
   ]
   
 Achievement:
   [
+    "Next Video Build 🏆",
     "Smart India Hackathon 2022 🏆",
-    "ETHIndia 2022 🏆"
+    "ETHIndia 2022 🏆",
+    "Code Heist 🏆"
   ]
   
 ```
