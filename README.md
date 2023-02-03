@@ -24,6 +24,12 @@
 
 [![Hackthon](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
+![sih](https://user-images.githubusercontent.com/75811912/216569566-8f5974a5-bc80-4e2d-849e-0bd9a784a812.png)
+![nvb](https://user-images.githubusercontent.com/75811912/216569574-7c778235-ddff-4256-97a1-84d2eab6e753.png)
+![ethindia](https://user-images.githubusercontent.com/75811912/216569575-75c43347-2116-4fb5-b2e6-5e6fac930681.png)
+![codeheist](https://user-images.githubusercontent.com/75811912/216569577-e72a11a8-3deb-4d99-99ea-b03ac6a5cba6.png)
+
+
 ## 🅰️ About Myself
 
 ```yaml
