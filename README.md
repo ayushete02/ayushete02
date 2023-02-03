@@ -19,7 +19,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
-[![trophy](https://achievement-stats.vercel.app/?event=ETHINDIA&username=ayushete02&repo=Livestreamer&desc=CRT%20123)](https://github.com/ayushete02)
+## 🥇 Hackathon
+
+[![Hackthon](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
 ## 🅰️ About Myself
 
