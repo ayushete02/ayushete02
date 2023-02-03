@@ -19,16 +19,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
-## 🥇 Hackathon
-<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
-https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
-
-[![nvb](https://user-images.githubusercontent.com/75811912/216570967-5b2b6b5e-cde3-4d8a-82a9-75dd7365ec04.png)](https://github.com/ayushete02/LiveStreamer)
-[![ethindia](https://user-images.githubusercontent.com/75811912/216570971-8d93aef4-af2a-4b5d-91b0-1611465d0e72.png)](https://github.com/ayushete02/NFTFier)
-[![sih](https://user-images.githubusercontent.com/75811912/216570959-507a68cc-814e-454a-9fc1-2ef32be2cdce.png)](https://github.com/ayushete02/Shikshaverse)
-[![codeheist](https://user-images.githubusercontent.com/75811912/216570978-9ab91012-b07c-4ec6-bca1-bd1dd3b36bb9.png)](https://github.com/ayushete02/enchiper)
-
-
 ## 🅰️ About Myself
 
 ```yaml
@@ -81,6 +71,16 @@ Achievement:
   ]
   
 ```
+## 🥇 Hackathon
+<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
+https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
+
+[![nvb](https://user-images.githubusercontent.com/75811912/216570967-5b2b6b5e-cde3-4d8a-82a9-75dd7365ec04.png)](https://github.com/ayushete02/LiveStreamer)
+[![ethindia](https://user-images.githubusercontent.com/75811912/216570971-8d93aef4-af2a-4b5d-91b0-1611465d0e72.png)](https://github.com/ayushete02/NFTFier)
+[![sih](https://user-images.githubusercontent.com/75811912/216570959-507a68cc-814e-454a-9fc1-2ef32be2cdce.png)](https://github.com/ayushete02/Shikshaverse)
+[![codeheist](https://user-images.githubusercontent.com/75811912/216570978-9ab91012-b07c-4ec6-bca1-bd1dd3b36bb9.png)](https://github.com/ayushete02/enchiper)
+
+
 ## 🤙 Connect with me
 <p align="left">
 <a href="https://twitter.com/ayushete02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushete02" height="30" width="40" /></a>
