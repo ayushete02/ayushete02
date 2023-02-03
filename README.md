@@ -20,14 +20,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
 ## 🥇 Hackathon
-<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword -->
+<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
+https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
 
-[![Hackthon](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
-
-![sih](https://user-images.githubusercontent.com/75811912/216569566-8f5974a5-bc80-4e2d-849e-0bd9a784a812.png)
-![nvb](https://user-images.githubusercontent.com/75811912/216569574-7c778235-ddff-4256-97a1-84d2eab6e753.png)
-![ethindia](https://user-images.githubusercontent.com/75811912/216569575-75c43347-2116-4fb5-b2e6-5e6fac930681.png)
-![codeheist](https://user-images.githubusercontent.com/75811912/216569577-e72a11a8-3deb-4d99-99ea-b03ac6a5cba6.png)
+[![nvb](https://user-images.githubusercontent.com/75811912/216570967-5b2b6b5e-cde3-4d8a-82a9-75dd7365ec04.png)](https://github.com/ayushete02/LiveStreamer)
+[![ethindia](https://user-images.githubusercontent.com/75811912/216570971-8d93aef4-af2a-4b5d-91b0-1611465d0e72.png)](https://github.com/ayushete02/NFTFier)
+[![sih](https://user-images.githubusercontent.com/75811912/216570959-507a68cc-814e-454a-9fc1-2ef32be2cdce.png)](https://github.com/ayushete02/Shikshaverse)
+[![codeheist](https://user-images.githubusercontent.com/75811912/216570978-9ab91012-b07c-4ec6-bca1-bd1dd3b36bb9.png)](https://github.com/ayushete02/enchiper)
 
 
 ## 🅰️ About Myself
