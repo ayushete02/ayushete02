@@ -67,11 +67,6 @@ Achievement:
   ]
   
 ```
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ayushete02/count.svg" />
-</p>
-
 
 ## 🥇 Hackathon
 <!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
@@ -157,3 +152,7 @@ https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepi
 
  ![](https://visitor-badge.glitch.me/badge?page_id=ayushete02.ayushete02&style=flat-square&color=0088cc)        
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ayushete02/count.svg" />
+</p>
