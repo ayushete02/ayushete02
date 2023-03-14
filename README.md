@@ -60,6 +60,7 @@ Contact:
   
 Achievement:
   [
+    "ETHforAll 🥇"
     "Next Video Build 🏆",
     "Smart India Hackathon 2022 🏆",
     "ETHIndia 2022 🏆",
@@ -71,11 +72,12 @@ Achievement:
 ## 🥇 Hackathon
 <!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
 https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
-
+[![ethforall](https://user-images.githubusercontent.com/75811912/224966272-aeb3955a-625f-421c-8217-37f04bf03ee7.png)](https://github.com/hrsh22/MusicChain)
 [![nvb](https://user-images.githubusercontent.com/75811912/216570967-5b2b6b5e-cde3-4d8a-82a9-75dd7365ec04.png)](https://github.com/ayushete02/LiveStreamer)
 [![ethindia](https://user-images.githubusercontent.com/75811912/216570971-8d93aef4-af2a-4b5d-91b0-1611465d0e72.png)](https://github.com/ayushete02/NFTFier)
 [![sih](https://user-images.githubusercontent.com/75811912/216570959-507a68cc-814e-454a-9fc1-2ef32be2cdce.png)](https://github.com/ayushete02/Shikshaverse)
 [![codeheist](https://user-images.githubusercontent.com/75811912/216570978-9ab91012-b07c-4ec6-bca1-bd1dd3b36bb9.png)](https://github.com/ayushete02/enchiper)
+
 
 
 ## 🤙 Connect with me
@@ -113,7 +115,7 @@ https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepi
 
   
 ## 🌍 My Languages
- 
+
  <p align="center">
 <a href="https://github.com/ayushete02/"><img alt="Ayush Shete's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushete02&langs_count=8&count_private=true&layout=compact&theme=radical&bg_color=0D1117" /></a>
 
