@@ -121,15 +121,6 @@ https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepi
 
 </p>
 
-## 📈 GitHub Contributions Graph
-
-
-
-
-## 🏆Hacktoberfest 2022 Badges 
-[![@ayushete Holopin board](https://holopin.io/api/user/board?user=ayushete)](https://holopin.io/@ayushete)
-
-
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
