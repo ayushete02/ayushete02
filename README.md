@@ -21,56 +21,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
-## 🅰️ About.json
-
-```yaml
-Name: Ayush Shete
-Location: Nagpur, Maharashtra, India
-Skills: Full Stack Developer, Blockchain, Machine Learning, Frontend Developer, Frontend Developer.
-
-Education: 
-  [
-    "Bachelor's in Computer Science"
-  ]
-
-Fields of Interests: 
-  [
-    "Blockchain Developement",
-    "Frontend Developement",
-    "Backend Developement",
-    "Software Development",
-    "ReactJS Development",
-    "NextJS Development",
-    "Machine Learning",
-    "UI/UX Development"
-  ]
-
-Language:
-  [
-    "Python",
-    "JavaScript"
-  ]
-  
-Contact: 
-  [
-    Linkdin: ayushete02, 
-    twitter: ayushete02,
-    telegram: ayushete02,
-    discord:ayushete02,
-    instagram: ayushete02
-  ]
-  
-Achievement:
-  [
-    "ETHforAll 🥇"
-    "Next Video Build 🏆",
-    "Smart India Hackathon 2022 🏆",
-    "ETHIndia 2022 🏆",
-    "Code Heist 🏆"
-  ]
-  
-```
-
 ## 🥇 Hackathon
 <!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
 https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
@@ -159,8 +109,6 @@ https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepi
 
 </p>
 
-<!--platane/snk works, it just puts it on a new branch -->
- ![mishmanners snake gif](https://github.com/MishManners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushete02&repo=Shikshaverse)](https://github.com/ayushete02/Shikshaverse)
@@ -173,7 +121,7 @@ https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepi
 
 <hr>
 
-[![ayushete02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushete02@gmail.com)  [<img alt="Instagram" src="https://img.shields.io/badge/ayush_shete_0216-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/ayushete02) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushete/) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/ayushete02)
+[![ayushete02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushete02@gmail.com) [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/https://www.linkedin.com/in/ayushete02/](https://www.linkedin.com/in/ayushete02/)) [<img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/ayushete02)
 
   
 <hr>
