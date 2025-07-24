@@ -21,17 +21,49 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayushete02&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ayushete02)
 
-## 🥇 Hackathon
-<!-- https://www.freepik.com/free-vector/badge-collection-with-vintage-style_2411387.htm#query=badge%20logo&position=17&from_view=keyword 
-https://wepik.com/edit/vintage-high-quality-badge-logo-2411387#utm_source=freepik&utm_medium=referall&utm_campaign=editordetail&utm_content=edit-button&utm_term=edit -->
+## 🥇 Hackathons
 
-[![ethforall](https://user-images.githubusercontent.com/75811912/224966272-aeb3955a-625f-421c-8217-37f04bf03ee7.png)](https://github.com/hrsh22/MusicChain)
-[![nvb](https://user-images.githubusercontent.com/75811912/216570967-5b2b6b5e-cde3-4d8a-82a9-75dd7365ec04.png)](https://github.com/ayushete02/LiveStreamer)
-[![ethindia](https://user-images.githubusercontent.com/75811912/216570971-8d93aef4-af2a-4b5d-91b0-1611465d0e72.png)](https://github.com/ayushete02/NFTFier)
-[![sih](https://user-images.githubusercontent.com/75811912/216570959-507a68cc-814e-454a-9fc1-2ef32be2cdce.png)](https://github.com/ayushete02/Shikshaverse)
-[![codeheist](https://user-images.githubusercontent.com/75811912/216570978-9ab91012-b07c-4ec6-bca1-bd1dd3b36bb9.png)](https://github.com/ayushete02/enchiper)
+### PL_Genesis: Modular Worlds Comics.ai
+- NEAR AI for story & image generation  
+- Filecoin via Lighthouse for decentralized storage  
+- Flow smart contracts for on-chain publishing  
 
+🔗 [Repo](https://github.com/ayushete02/comics.ai) · [Demo](https://comics-ai.vercel.app) · [Project Page](https://devspot.app/en/projects/160)
 
+---
+
+### ETHForAll — MusicChain  
+- Decentralized music player letting artists upload directly and listeners stream without gatekeepers (Mantle, IPFS, Next.js, Tailwind).  
+
+🔗 [Original Repo](https://github.com/hrsh22/MusicChain)
+
+---
+
+### LiveStreamer  
+- “Decentralized Twitch” where viewers mint generative NFTs and support creators via subscriptions (Livepeer, Polygon, NFTPort, ENS, XMTP, Push Protocol).  
+
+🔗 [Repo](https://github.com/ayushete02/LiveStreamer)
+
+---
+
+### NFTFier  
+- Dynamic NFT identity cards (professional/educational) with mint/retrieve/access flows (Biconomy, Covalent, NFTPort, Push, Valist, Revise).  
+
+🔗 [Repo](https://github.com/ayushete02/NFTFier)
+
+---
+
+### Shikshaverse  
+- Metaverse + smart contracts project (SIH’22 track) for education.  
+
+🔗 [Repo](https://github.com/ayushete02/Shikshaverse)
+
+---
+
+### Enchiper / WellEazy  
+- Virtual health assistant & IoT monitoring platform built with Flask, SQLAlchemy, and PyQt.  
+
+🔗 [Repo](https://github.com/ayushete02/enchiper)
 
 
 
